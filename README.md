@@ -1,5 +1,4 @@
-#Couchbase Server 5.0.1 Community Edition on Ubuntu 16.4
-
+# Couchbase Server 5.0.1 Community Edition on Ubuntu 16.4
 
 ## My QuickStart with Couchbase Server and DockerStarUp
 allow connections to the following ports: 11211, 11210, 11209, 4369, 8091, 8092, 18091, 18092, 11214, 11215 and from 21100 to 21299.
