@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Couchbase Docker Team <docker@couchbase.com>
+MAINTAINER Luis Lopes <luis.mcp.lopes@gmail.com>
 
 # Install dependencies:
 #  runit: for container process management
